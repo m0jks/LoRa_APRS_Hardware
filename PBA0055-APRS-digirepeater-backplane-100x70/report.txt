@@ -1,0 +1,31 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'PTT_SW1:'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'MK1:'.
+Info: Processing symbol 'L2:Inductor_SMD:L_0805_2012Metric'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0805_2012Metric'.
+Info: Processing symbol 'J1:CUI_SJ-43515TS:CUI_SJ-43515TS'.
+Info: Processing symbol 'UP_SW1:'.
+Info: Processing symbol 'DOWN_SW1:'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Changed J1 value from CUI_SJ-43515TS to AudioJack4.
+Updated J1 symbol association from  to /842085a2-d2e0-4319-87d6-28e0412d685e.
+Updated J1 properties.
+Add net /PTT_GND.
+Connected J1 pin R2 to /PTT_GND.
+Connected J1 pin R1 to /PTT_UP_DOWN.
+Connected J1 pin T to Net-(C1-Pad1).
+Connected J1 pin S to GND.
+Changed REF** reference designator to J1.
+Added J1 (footprint 'CUI_SJ-43515TS:CUI_SJ-43515TS').
+Warning: No net found for symbol J1 pin TS.
+Error: Cannot add UP_SW1 (no footprint assigned).
+Error: Cannot add PTT_SW1 (no footprint assigned).
+Error: Cannot add MK1 (no footprint assigned).
+Error: Cannot add DOWN_SW1 (no footprint assigned).
+Error: Cannot add C1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 5.
