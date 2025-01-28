@@ -2,7 +2,6 @@ This project is a Simple carrier board for a Heltec Lora WiFi V3 board.
 
 ![screenshot](Piccies/Screenshot_2025-01-28_17-23-28.png)
 
-
 This board can be purchased from Amazon or Aliexpress:
 
 	https://www.aliexpress.com/item/1005007594267069.html
@@ -21,13 +20,20 @@ In the "Freecad" directory you will find three 3D design files.They are as follo
 
 This is a mounting place for the Kicad PCB inside the body of the IP67 case. It raises the PCB so that the N-Type to IPEX fitting sits neatly underneath it (and the PCB ground plane).
 
+![screenshot](Piccies/Screenshot_2025-01-28_17-36-13.png)
+
 2. IP67_Case_38mm_mast_clamp.FCStd
 
 This is an external mounting fixture fo the (120x90x70) case - to a 1.5" (38mm) mast. It requires two M4 nuts and bolts to clamp the two halves together.
 
+![screenshot](Piccies/Screenshot_2025-01-28_17-37-16)
+
+
 3. IP67_Case_Antenna_Hole_Template.FCStd
 
 This is a hole drilling template for the top N-Type and bottom SP13 power connector.
+
+![screenshot](Piccies/Screenshot_2025-01-28_17-37-45.png)
 
 Additional Hardware.
 
