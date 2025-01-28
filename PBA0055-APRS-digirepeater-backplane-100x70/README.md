@@ -26,7 +26,7 @@ This is a mounting place for the Kicad PCB inside the body of the IP67 case. It 
 
 This is an external mounting fixture fo the (120x90x70) case - to a 1.5" (38mm) mast. It requires two M4 nuts and bolts to clamp the two halves together.
 
-![screenshot](Piccies/Screenshot_2025-01-28_17-37-16)
+![screenshot](Piccies/Screenshot_2025-01-28_17-37-16.png)
 
 
 3. IP67_Case_Antenna_Hole_Template.FCStd
