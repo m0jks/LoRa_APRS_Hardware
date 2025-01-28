@@ -13,6 +13,8 @@ The Kicad PCB in the "Kicad" directory is designed to fit in the following (120x
 
 	https://www.aliexpress.com/item/1005005387771681.html
 
+![screenshot](Piccies/Screenshot_2024-07-29_15-08-30.png)
+
 In the "Freecad" directory you will find three 3D design files.They are as follows:
 
 1. LoRa_APRS_node_mounting_plates_100x70_studs.FCStd
