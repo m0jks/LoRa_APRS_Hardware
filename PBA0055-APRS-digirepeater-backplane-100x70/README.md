@@ -1,5 +1,8 @@
 This project is a Simple carrier board for a Heltec Lora WiFi V3 board.
 
+![screenshot](Piccies/Screenshot_2025-01-28_17-23-28.png)
+
+
 This board can be purchased from Amazon or Aliexpress:
 
 	https://www.aliexpress.com/item/1005007594267069.html
