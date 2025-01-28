@@ -41,7 +41,7 @@ In addition to the above PCB and 3D printed files, to complete this design you w
 
 1. N-Type to IPEX (U.FL) pigtail
 
-2. SP13 Make and Female Connector
+2. SP13 Male and Female Connector
 
 3. LM2596S Buck DC-DC board.
 
