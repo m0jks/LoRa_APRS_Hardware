@@ -82,7 +82,7 @@ In the Gerbers directory you will find two zip files. They are as follows:
 
 This zip file contains the Gerber files required to manufacture the main MPPT PCB:
 
-![screenshot](Piccies/Screenshot_2025-03-09_15-23-54.jpg)
+![screenshot](Piccies/Screenshot_2025-03-09_15-23-54.png)
 
 You will need to get a contract manufacturer such as PCBWay or JLCPCB to build the MPPT board; the BOM and P&P file are contained also in the zip file. If you need help doing this please feel free to get in touch. Alternatively, I have about 10 built up and available for purchase.
 
