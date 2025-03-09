@@ -8,7 +8,7 @@ It is based around the Heltec LoRa WiFi V4 board which is readily available from
 
 	https://heltec.org/project/wifi-lora-32-v3/
 
-![screenshot](Piccies/IMG_20240929_175950128_HDR.jpg
+![screenshot](Piccies/IMG_20240929_175950128_HDR.jpg)
 
 For LoRa APRS buy the "EU433" version not the EU868 version
 
