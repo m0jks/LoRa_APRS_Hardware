@@ -116,7 +116,11 @@ As with the MPPT PCB you will need to get a contract manufacturer to build this 
 
 If you need help doing this please feel free to get in touch. Alternatively, I have about 10 built up and available for purchase.
 
-Any questions, feel free to get in touch @ peglerd@gmail.com or see my qrz.com page
+Finally, I have tweaked CA2RXU's excellent github repository to support this board. This is available, from 
+
+	https://github.com/m0jks/LoRa_APRS_iGate_M0JKS
+
+Any questions, feel free to get in touch (peglerd@gmail.com) or see my qrz.com page
 
 {https://www.qrz.com/db/M0JKS}
 
