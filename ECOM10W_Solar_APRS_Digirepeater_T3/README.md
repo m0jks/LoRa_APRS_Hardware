@@ -54,26 +54,20 @@ In addition to the above PCB and 3D printed files, to complete this design you w
 
 2. SP13 Male and Female Connector
 
-3. LM2596S Buck DC-DC board.
+3. EU433 or EU868 Antenna
 
-4. JST 1.25mm (2P) SMA
+4. Heltec LoRa V3 WiFi board. EU433 for APRS, EU868 for Meshtastic
 
-5. EU433 or EU868 Antenna
-
-6. Heltec LoRa V3 WiFi board. EU433 for APRS, EU868 for Meshtastic
+5. N-Type Female to N-type Female adapter
 
 The above are all available from Aliexpress of Amazon:
 
-1. https://www.aliexpress.com/item/1005007261632487.html
-2. https://www.aliexpress.com/item/1005006769201518.html
-3. https://www.aliexpress.com/item/1005006516043406.html
-4. https://www.aliexpress.com/item/1005005721470475.html
-5  https://www.aliexpress.com/item/1005006253283206.html
-6. https://www.aliexpress.com/item/32886711232.html
-
-
-Finally it is important to remember that LM2596S Buck DC-DC board has a pot top right. You need to make sure you twiddle that until the ouput (right hand side) is 5v. This is because the above PCB supplies the Heltec board with a 5v supply on pin 1
+1. https://www.aliexpress.com/item/1005007261632487.html   (NFW-IPX-RG178)
+2. https://www.aliexpress.com/item/1005006769201518.html   (SP1310P SP1312S 2Pin)
+3  https://www.aliexpress.com/item/1005006253283206.html   (TX433-BLG-40)
+4. https://www.aliexpress.com/item/1005007594267069.html   (433 MHz SMA)
+5. https://www.aliexpress.com/item/1005003901644903.htm
 
 Any questions, get in touch
 
-Dave {https://www.qrz.com/db/M0JKS)
+Dave M0JKS {https://www.qrz.com/db/M0JKS}
