@@ -67,10 +67,14 @@ In addition to the above PCB and 3D printed files, to complete this design you w
 The above are all available from Aliexpress of Amazon:
 
 1. https://www.aliexpress.com/item/1005007261632487.html   (NFW-IPX-RG178)
+
 2. https://www.aliexpress.com/item/1005006769201518.html   (SP1310P SP1312S 2Pin)
+
 3  https://www.aliexpress.com/item/1005006253283206.html   (TX433-BLG-40)
+
 4. https://www.aliexpress.com/item/1005007594267069.html   (433 MHz SMA)
-5. https://www.aliexpress.com/item/1005003901644903.htm
+
+5. https://www.aliexpress.com/item/1005003901644903.html
 
 In the Gerbers directory you will find two zip files. They are as follows:
 
@@ -78,7 +82,7 @@ In the Gerbers directory you will find two zip files. They are as follows:
 
 This zip file contains the Gerber files required to manufacture the main MPPT PCB:
 
-![screenshot](Piccies/Screenshot_2025-03-09_15-23-54,jpg)
+![screenshot](Piccies/Screenshot_2025-03-09_15-23-54.jpg)
 
 You will need to get a contract manufacturer such as PCBWay or JLCPCB to build the MPPT board; the BOM and P&P file are contained also in the zip file. If you need help doing this please feel free to get in touch. Alternatively, I have about 10 built up and available for purchase.
 
@@ -91,15 +95,23 @@ This zip file contains the Gerber files required to manufacture the main 18650 b
 As with the MPPT PCB you will need to get a contract manufacturer to build this board for you. However, unlike the MPPT board you do not need to get it stuffed (populated with components). You will need to build this board yourself; the BOM of which is as follows
 
 1. 18650 SMD battery holder 			x3
+
 2. 1808 SMD fuses (1A)      			x3
+
 3. 1808 SMD fuse holder     			x3
+
 4. JST XH 2.54mm THT connector (2 pin)  	x1
+
 5. JST XH 2.54mm dual header cable (20cm)	x1
 
 1. https://www.aliexpress.com/item/1005005450688262.html
+
 2. https://www.aliexpress.com/item/1005004210486564.html
+
 3. https://www.aliexpress.com/item/1005004210486564.html  
+
 4. https://www.aliexpress.com/item/1005003422202370.html
+
 5. https://www.aliexpress.com/item/1005004519025007.html  (XH 2.54mm Dual  Len 200mm 2pin)
 
 If you need help doing this please feel free to get in touch. Alternatively, I have about 10 built up and available for purchase.
