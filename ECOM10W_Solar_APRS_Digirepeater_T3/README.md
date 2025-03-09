@@ -1,39 +1,50 @@
-This project is a Simple carrier board for a Heltec Lora WiFi V3 board.
+This repositroy contains all the design file required to build a 10W Solar APRS digirepeater
 
 ![screenshot](Piccies/Screenshot_2025-02-25_17-19-51.png)
 
-This board can be purchased from Amazon or Aliexpress:
+It is based around the Heltec LoRa WiFi V4 board which is readily available from Amazon or Aliexpress:
 
-	https://www.aliexpress.com/item/1005007594267069.html
+	https://heltec.org/project/wifi-lora-32-v3/
 
-For LoRa APRS buy the EU433 version, for Meshtastic buy the EU868 version
+For LoRa APRS buy the "EU433" version not the EU868 version
 
-The Kicad PCB in the "Kicad" directory is designed to fit in the following (120x90x70) IP67 case:
+In the "Freecad" directory you will find six 3D design files.They are as follows:
 
-	https://www.aliexpress.com/item/1005005387771681.html
+1. ECOM10W_Solar_Panel_Case8.FCStd1 (ECOM10W_Solar_Panel_Case8-BodyRemove\ Annomaly.amf)
 
-![screenshot](Piccies/Screenshot_2024-07-29_15-08-30.png)
+This file is the main body of the case as shown below
 
-In the "Freecad" directory you will find three 3D design files.They are as follows:
+![screenshot](Piccies/Screenshot_2025-03-09_15-33-06.png)
 
-1. LoRa_APRS_node_mounting_plates_100x70_studs.FCStd
+2. ECOM10W_Solar_Panel_Front9.FCStd (ECOM10W_Solar_Panel_Front9-BodyArch\ Arm\ Recess\ Slightly\ Bigger.amf)
 
-This is a mounting place for the Kicad PCB inside the body of the IP67 case. It raises the PCB so that the N-Type to IPEX fitting sits neatly underneath it (and the PCB ground plane).
+This is the front panel or lid of the case as shown below:
 
-![screenshot](Piccies/Screenshot_2025-01-28_17-36-13.png)
+![screenshot](Piccies/Screenshot_2025-03-09_15-33-38.png)
 
-2. IP67_Case_38mm_mast_clamp.FCStd
+3. ECOM10W_Solar_Panel_Case_Insert.FCStd (ECOM10W_Solar_Panel_Case_Insert-BodyFillet003.amf)
 
-This is an external mounting fixture fo the (120x90x70) case - to a 1.5" (38mm) mast. It requires two M4 nuts and bolts to clamp the two halves together.
+This is the tray that the MPPT PCB and 18650 battery PCB sit in
 
-![screenshot](Piccies/Screenshot_2025-01-28_17-37-16.png)
+![screenshot](Piccies/Screenshot_2025-03-09_15-34-38.png)
 
+4. ECOM10W_Solar_Panel_Arch_Arm5.FCStd (ECOM10W_Solar_Panel_Arch_Arm5-BodyScrew\ Holes.amf )
 
-3. IP67_Case_Antenna_Hole_Template.FCStd
+This is the arched arm of the design; two are required.
 
-This is a hole drilling template for the top N-Type and bottom SP13 power connector.
+![screenshot](Piccies/Screenshot_2025-03-09_15-34-08.png)
 
-![screenshot](Piccies/Screenshot_2025-01-28_17-37-45.png)
+5. ECOM10W_Solar_Pole_Mount6.FCStd (ECOM10W_Solar_Pole_Mount6-BodyFillet001.amf)
+
+This is the pole mounting assembly.
+
+![screenshot](Piccies/Screenshot_2025-03-09_15-35-50.png)
+
+6. ECOM10W_Solar_Panel_Gaskett.FCStd (ECOM10W_Solar_Panel_Gaskett-BodyPocket002.amf)
+
+This is the gaskett which sits between the main body and front panel (lid) of the design
+
+![screenshot](Piccies/Screenshot_2025-03-09_15-34-57.png)
 
 Additional Hardware.
 
