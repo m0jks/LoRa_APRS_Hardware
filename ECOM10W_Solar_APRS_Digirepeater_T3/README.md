@@ -1,4 +1,4 @@
-**                           10W Solar MPPT Digirepeater**
+**10W Solar MPPT Digirepeater**
 
 This repositroy contains all the design file required to build a 10W Solar APRS digirepeater
 
